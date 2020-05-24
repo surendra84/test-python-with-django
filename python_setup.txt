@@ -1,0 +1,16 @@
+Python Tutorial
+
+1. Install new python from the website
+2. Set the inital path into environment variable
+check the path as below:
+C:\Users\HP\AppData\Local\Programs\Python\Python38-32
+3. Once path setup done, then install django
+	1. Open command prampt
+	2. Install Django using below command
+		C:\Users\HP\AppData\Local\Programs\Python\Python38-32
+	3. This will install Django server
+4. After installation create a directory where want to create a python project
+5. Navigate the directory path on command prampt
+6. Use below command to create a project
+	C:\Users\HP\AppData\Local\Programs\Python\Python38-32
+7. First Python project got created.
